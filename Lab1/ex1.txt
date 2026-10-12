@@ -1,0 +1,2 @@
+Let a DNA Sequence is equal to 20 letters. Design a software app which is able to detect the frequency for each letter in part
+a.d.c.g
